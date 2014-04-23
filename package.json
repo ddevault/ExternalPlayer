@@ -1,0 +1,9 @@
+{
+  "name": "externalplayer",
+  "title": "ExternalPlayer",
+  "id": "jid1-NbC5BaL6G37cRg",
+  "description": "Play videos for various websites in an external media player.",
+  "author": "Drew DeVault",
+  "license": "MIT",
+  "version": "0.1"
+}
