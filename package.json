@@ -1,9 +1,10 @@
 {
   "name": "externalplayer",
   "title": "ExternalPlayer",
-  "id": "jid1-NbC5BaL6G37cRg",
+  "id": "jid1-NbC5BaL6G37cRg@jetpack",
   "description": "Play videos for various websites in an external media player.",
   "author": "Drew DeVault",
   "license": "MIT",
-  "version": "0.1"
+  "version": "1.0.0",
+  "main": "lib/main.js"
 }
